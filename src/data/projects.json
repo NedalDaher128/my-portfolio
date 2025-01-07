@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Dashboard Admin",
+        "description":"I created that website using React and Node.js for the backend. The project took maybe 2 weeks to finish. I have extensive experience in creating websites. If you're asking how I started building the website, step 1 is to create a clear plan before starting. After that, set up the environment. After setting up the work environment, I will go on to build the website while drinking coffee.👌",
+        "role": "Fullstack Developer",
+        "stack": ["React", "Node", "Express", "MongoDB"],   
+        "image":"/المشروع الاول.png",
+        "date": "2024-10-11"
+    },
+    {
+        "title": "Dashbord Admon Next js",
+        "description":" I developed this dashboard myself from scratch to finish, taking into account the essential and important concepts for every developer, such as clean code and organized project structure",
+        "role": "Fullstack Developer",
+        "stack": ["React", "Node", "Express", "MongoDB"],   
+        "image":"/المشروع الثاني.png",
+        "date": "2024-10-11"
+    },
+    {
+        "title": "Developer website",
+        "description":" I built that website when I got my first job in web development on the platform Upwork. I used React.js and Node.js, and my database was MongoDB. I am familiar with two types of databases: SQL and NoSQL, and I understand the differences between them.",
+        "role": "Fullstack Developer",
+        "stack": ["React", "Node", "Express", "MongoDB"],   
+        "image":"/المشروع الثاني.png",
+        "date": "2024-10-11"
+    }
+]

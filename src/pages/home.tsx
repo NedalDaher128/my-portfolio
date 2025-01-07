@@ -66,7 +66,7 @@ const Home = () => {
       <div className="flex flex-col gap-16 justify-center items-center min-h-[1042px] p-16 bg-white">
         <div className="flex flex-col gap-5 min-w[650px] max-w-[650px]">
           <h1 className="text-4xl fon font-bold font-logo">About me</h1>
-          <p className="max-w-[650px] w-[298px]  md:w-[650px] text-base font-text text-black font-normal">
+          <p className="max-w-[650px] w-[298px]  md:w-[650px] text-base md:text-[16 px] font-text text-black font-normal">
             Hello, I’m Nedal, a passionate Web Application Developer dedicated to delivering innovative and efficient solutions tailored to your business needs. I specialize in frontend development using Next.js and React.js, enhancing user experiences and building state-of-the-art applications. With expertise in full-stack development, I’ve improved e-commerce website performance using React.js and Node.js, driving higher conversion rates. My technical skills include GraphQL, Redux, SASS, UI/UX design, and API integration. I hold a Bachelor’s degree in Computer Science with a focus on software development. My client-centric approach ensures clear communication, professional problem-solving, and timely project delivery. I’m always eager to learn and implement cutting-edge technologies to provide exceptional results. Let’s collaborate to turn your ideas into impactful solutions that exceed expectations!
           </p>
         </div>

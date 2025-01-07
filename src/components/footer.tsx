@@ -6,7 +6,6 @@ const footer  = () => {
 
             <div className="flex flex-row items-center text-white text-[16px] gap-3 font-bold">
                 <Link to="/">HOME</Link>
-                <Link to="/projects">PROJECTS</Link>
                 <Link to="/about">ABOUT</Link>
                 <Link to="/contact">CONTACT</Link>
 
