@@ -1,6 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+::-webkit-scrollbar {
+  width: 1  0px; /* عرض الشريط العمودي */
+  height: 10px; /* ارتفاع الشريط الأفقي */
+}
+::-webkit-scrollbar-track {
+  background: #f4f4f4; /* لون الخلفية */
+  border-radius: 8px; /* تدوير الزوايا */
+}
+::-webkit-scrollbar-thumb {
+  background: #888; /* لون المقبض */
+  border-radius: 8px; /* تدوير الزوايا */
+}
 * {
   margin: 0;
   padding: 0;
@@ -70,3 +82,4 @@
     @apply bg-background text-foreground;
   }
 }
+

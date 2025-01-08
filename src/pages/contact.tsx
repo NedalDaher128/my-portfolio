@@ -15,7 +15,7 @@ const Contact = () => {
             <div className="flex w-full flex-col gap-16 justify-center items-center min-h-[780px] p-16 ">
                 <div className="flex flex-col  gap-5 max-w-[300px]  w-[300px] md:max-w-[700px] md:w-[700px] xl:max-w-[1200px] xl:w-[1200px]">
                     <h1 className="text-4xl fon font-bold font-logo">Contact Me</h1>
-                    <div className=" flex flex-col gap-5 md:flex-row items-center justify-between  ">
+                    <div data-aos="fade-down" className=" flex flex-col gap-5 md:flex-row items-center justify-between  ">
                         <div className="grid w-full max-w-sm items-center gap-1.5">
                             <Label className=" font-logo font-bold text-[16px]" htmlFor="Name">Name</Label>
                             <Input className=" border-[#000000] font-text"  type="Name" id="Name" placeholder="Your name" />
@@ -26,7 +26,7 @@ const Contact = () => {
                         </div>
 
                     </div>
-                    <Textarea className="   h-[300px] font-text border-[#000000]"  placeholder="Type your message here." />
+                    <Textarea  data-aos="fade-down" className="   h-[300px] font-text border-[#000000]"  placeholder="Type your message here." />
                 </div>
                 <Button className=" bg-[#D9D9D9] w-[240px] h-[60px] " variant="outline">Send message</Button>
             </div>

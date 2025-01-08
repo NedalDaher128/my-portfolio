@@ -5,7 +5,8 @@
         "role": "Fullstack Developer",
         "stack": ["React", "Node", "Express", "MongoDB"],   
         "image":"/المشروع الاول.png",
-        "date": "2024-10-11"
+        "date": "2024-10-11",
+        "data_aos": "fade-down"
     },
     {
         "title": "Dashbord Admon Next js",
@@ -13,7 +14,9 @@
         "role": "Fullstack Developer",
         "stack": ["React", "Node", "Express", "MongoDB"],   
         "image":"/المشروع الثاني.png",
-        "date": "2024-10-11"
+        "date": "2024-10-11",
+        "data_aos": "fade-down"
+
     },
     {
         "title": "Developer website",
@@ -21,6 +24,7 @@
         "role": "Fullstack Developer",
         "stack": ["React", "Node", "Express", "MongoDB"],   
         "image":"/المشروع الثاني.png",
-        "date": "2024-10-11"
+        "date": "2024-10-11",
+        "data_aos": "fade-down"
     }
 ]

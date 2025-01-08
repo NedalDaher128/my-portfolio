@@ -40,12 +40,13 @@ const Menu = ({ setIsOpened, isOpened }: MenuProps) => {
                                 <Link onClick={()=> setIsOpened(!isOpened)}  className="block" to="/">HOME</Link>
                                 <Link onClick={()=> setIsOpened(!isOpened)}  className="block" to="/about">ABOUT</Link>
                                 <Link onClick={()=> setIsOpened(!isOpened)}  className="block" to="/contact">CONTACT</Link>
+                                <Link onClick={()=> setIsOpened(!isOpened)}  className="block" to="/experience">EXPERIENCE</Link>
                             </ul>
 
                             {/* معلومات التواصل */}
                             <div className="flex flex-col gap-5 text-[24px] font-bold">
-                                <p>your_mail@email.com</p>
-                                <p>+123 456 7890</p>
+                                <p>mrgames7700@gmail.com </p>
+                                <p>+962 0797514430</p>
                             </div>
                         </div>
                     </div>

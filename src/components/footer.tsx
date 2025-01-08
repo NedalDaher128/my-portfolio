@@ -11,8 +11,8 @@ const footer  = () => {
 
             </div>
             <div className="flex flex-col items-center text-white font-bold gap-5">
-                <p className=" text-[16px]">your_mail@email.com</p>
-                <p className=" text-[16px]">+123 456 7890</p>
+            <p className=" text-[16px]">mrgames7700@gmail.com </p>
+            <p className=" text-[16px]">+962 0797514430</p>
             </div>
             <img src="/logo.png" alt="nedal daher" />
         </footer>
