@@ -78,7 +78,7 @@ const Home = () => {
           <div className="flex gap-[10px] md:gap-5 flex-wrap">
             {icons.map((icon, index) => (
               <div
-                key={icon.name}
+                key={index}
                 className="flex gap-2 items-center  basis-[calc(50%-10px)] md:basis-0 "
               >
                 <img src={icon.image} alt={icon.name} width={14} height={14} />

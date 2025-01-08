@@ -1,4 +1,4 @@
-import { lazy, Suspense, useEffect } from "react";
+import { lazy, useEffect } from "react";
 import { BrowserRouter, Routes, Route } from "react-router";
 import Navbar from './components/navbar.tsx';
 import AOS from 'aos';
